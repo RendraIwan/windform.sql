@@ -20,7 +20,7 @@ namespace Implementasi_Winform_Pt._1.App.Models
                 Id =  1,
                 Nama = "Christianus Yoga Wibisono",
                 Nim = "212410101005",
-                Prodi = "Sistem Informasi"
+                Prodi = "Sistem Informasi haha"
             },
             new M_Mahasiswa
             {
